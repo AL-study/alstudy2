@@ -6,4 +6,10 @@
 
 - ### [BOJ 1520 내리막길 ★★](https://github.com/jungtaeyong/alstudy2/blob/ty/5-2%20다이나믹%20프로그래밍%20(1)/baekjoon%201520%20내리막길.md)
 
+- ### [BOJ 9251 LCS ★](https://github.com/jungtaeyong/alstudy2/blob/ty/5-2%20다이나믹%20프로그래밍%20(1)/baekjoon%209251%20LCS.md)
+
   
+
+  
+
+- 
