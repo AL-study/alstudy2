@@ -10,6 +10,5 @@
 
 - ### [BOJ 9252 LCS2 ★](https://github.com/jungtaeyong/alstudy2/blob/ty/5-2%20다이나믹%20프로그래밍%20(1)/baekjoon%209252%20LCS2.md)
 
-  
+- ### [BOJ 12015 가장 긴 증가하는 부분 수열2 ★★](https://github.com/jungtaeyong/alstudy2/blob/ty/5-2%20다이나믹%20프로그래밍%20(1)/baekjoon%2012015%20가장%20긴%20증가하는%20부분%20수열2.md)
 
-- 
