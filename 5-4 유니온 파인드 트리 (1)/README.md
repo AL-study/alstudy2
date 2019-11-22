@@ -58,9 +58,8 @@
 
 ## 문제
 
-- ### [BOJ 1717 집합의 표현](https://github.com/jungtaeyong/alstudy2/blob/ty/5-4%20유니온%20파인드%20트리%20(1)/baekjoon%20171720집합의%20표현.md)
-
-  ### 
+- ### [BOJ 1717 집합의 표현](https://github.com/jungtaeyong/alstudy2/blob/ty/5-4%20유니온%20파인드%20트리%20(1)/baekjoon%201717%20집합의%20표현.md)
 
   
+
 
