@@ -60,6 +60,6 @@
 
 - ### [BOJ 1717 집합의 표현](https://github.com/jungtaeyong/alstudy2/blob/ty/5-4%20유니온%20파인드%20트리%20(1)/baekjoon%201717%20집합의%20표현.md)
 
-  
+- ### [BOJ 4195 친구 네트워크](https://github.com/jungtaeyong/alstudy2/blob/ty/5-4%20유니온%20파인드%20트리%20(1)/baekjoon%204195%20친구%20네트워크.md)
 
 
