@@ -8,5 +8,6 @@
 
 - ### [BOJ 2163 초콜릿 자르기](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%202163%20초콜릿%20자르기.md)
 
+- ### [BOJ 9461 파도반 수열](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%209461%20파도반%20수열.md)
 
 
