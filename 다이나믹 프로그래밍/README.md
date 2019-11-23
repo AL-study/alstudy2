@@ -12,6 +12,4 @@
 
 - ### [BOJ 14501 퇴사 ★](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%2014501%20퇴사.md)
 
-  
-
-
+- ### [BOJ 1010 다리 놓기 ★★](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%201010%20다리%20놓기.md)
