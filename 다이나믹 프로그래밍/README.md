@@ -10,4 +10,8 @@
 
 - ### [BOJ 9461 파도반 수열](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%209461%20파도반%20수열.md)
 
+- ### [BOJ 14501 퇴사 ★](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%2014501%20퇴사.md)
+
+  
+
 
