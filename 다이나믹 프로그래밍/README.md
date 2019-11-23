@@ -6,7 +6,10 @@
 
 - ### [BOJ 10844 쉬운 계단 수](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%2010844%20쉬운%20계단%20수.md)
 
-  ### 
+- ### [BOJ 2163 초콜릿 자르기](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%202163%20초콜릿%20자르기.md)
 
+- ### [BOJ 9461 파도반 수열](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%209461%20파도반%20수열.md)
 
+- ### [BOJ 14501 퇴사 ★](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%2014501%20퇴사.md)
 
+- ### [BOJ 1010 다리 놓기 ★★](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%201010%20다리%20놓기.md)
