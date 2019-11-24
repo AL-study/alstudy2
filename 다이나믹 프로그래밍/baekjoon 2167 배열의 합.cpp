@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 int n,m,dp[301][301],k,arr[301][301];
-
 int main(){
 	ios_base :: sync_with_stdio(false);
 	cin.tie(NULL);

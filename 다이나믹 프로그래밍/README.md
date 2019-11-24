@@ -36,5 +36,7 @@ DP문제를 접근할 때는 다음의 사항을 고려해야 한다.
 
 - ### [BOJ  11055 가장 큰 증가 부분 수열](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%2011055%20가장%20큰%20증가%20부분%20수열.md)
 
+- ### [BOJ  2133 타일채우기 ★](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%202133%20타일채우기.md)
+
 
 
