@@ -20,3 +20,4 @@
 
 - ### [BOJ 2167 배열의 합](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%202167%20배열의%20합.md)
 
+- ### [BOJ 2294 동전 2](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%202294%20동전%202.md)
