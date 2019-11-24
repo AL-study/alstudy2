@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 int t,n,dp[3][100001],arr[3][100001];
-
 int main(){
 	cin>>t;
 	for(int i=0;i<t;i++){
