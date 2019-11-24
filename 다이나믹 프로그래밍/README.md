@@ -16,3 +16,5 @@
 
 - ### [BOJ 9465 스티커](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%209465%20스티커.md)
 
+- ### [BOJ 11057 오르막 수](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%2011057%20오르막%20수.md)
+
