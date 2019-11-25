@@ -46,5 +46,7 @@ DP문제를 접근할 때는 다음의 사항을 고려해야 한다.
 
 - ### [BOJ  11054 가장 긴 바이토닉 부분 수열 ★★](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%2011054%20가장%20긴%20바이토닉%20부분%20수열.md)
 
+- ### [BOJ  2225 합분해](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%202225%20합분해.md)
+
 
 
