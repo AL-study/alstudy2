@@ -52,5 +52,5 @@ DP문제를 접근할 때는 다음의 사항을 고려해야 한다.
 
 - ### [BOJ  1965 상자넣기](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%201965%20상자넣기.md)
 
-
+- ### [BOJ  6359 만취한 상범](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%206359%20만취한%20상범.cpp)
 
