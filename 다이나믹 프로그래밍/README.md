@@ -55,3 +55,6 @@ DP문제를 접근할 때는 다음의 사항을 고려해야 한다.
 - ### [BOJ  6359 만취한 상범](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%206359%20만취한%20상범.cpp)
 
 - ### [BOJ  1937 욕심쟁이 판다★★](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%201937%20욕심쟁이%20판다.md)
+
+- ### [BOJ  1915 가장 큰 정사각형 ★](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%201915%20가장%20큰%20정사각형.md)
+
