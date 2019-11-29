@@ -15,7 +15,7 @@ int main(){
 				int j=i+k;
 				dp[i][j]=INT_MAX;
 				for(int mid=i;mid<j;mid++){
-					dp[i][j]=min(dp[i][j],(dp[i][mid]+dp[mid+1][j])*2);
+					dp[i][j]=min(dp[i][j],dp[i][mid]+dp[mid+1][j]+sum[j]-sum[i-1]);
 				}
 			}
 		}
