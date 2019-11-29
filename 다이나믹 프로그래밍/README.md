@@ -61,3 +61,6 @@ DP문제를 접근할 때는 다음의 사항을 고려해야 한다.
 - ### [BOJ  11066 파일 합치기 ★★](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%2011066%20파일%20합치기.md)
 
 - ### [BOJ  2096 내려가기](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%202096%20내려가기.md)
+
+- ### [BOJ  2011 암호코드 ★](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%202011%20암호코드.md)
+
