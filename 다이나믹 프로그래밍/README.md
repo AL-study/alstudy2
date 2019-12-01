@@ -66,6 +66,8 @@ DP문제를 접근할 때는 다음의 사항을 고려해야 한다.
 
 - ### [BOJ  9507 Generations of Tribbles ](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%209507%20Generations%20of%20Tribbles.cpp)
 
+- ### [BOJ  10164 격자상의 경로](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%2010164%20격자상의%20경로.md)
+
 
 
 
