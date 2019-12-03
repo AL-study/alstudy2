@@ -68,7 +68,7 @@ DP문제를 접근할 때는 다음의 사항을 고려해야 한다.
 
 - ### [BOJ  10164 격자상의 경로](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%2010164%20격자상의%20경로.md)
 
-
+- ### [BOJ  2631 줄세우기](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%202631%20줄세우기.md)
 
 
 
