@@ -70,5 +70,7 @@ DP문제를 접근할 때는 다음의 사항을 고려해야 한다.
 
 - ### [BOJ  2631 줄세우기](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%202631%20줄세우기.md)
 
+- ### [BOJ  3943 헤일스톤 수열](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%203943%20헤일스톤%20수열.md)
+
 
 
