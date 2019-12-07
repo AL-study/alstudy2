@@ -74,5 +74,7 @@ DP문제를 접근할 때는 다음의 사항을 고려해야 한다.
 
 - ### [BOJ  11049 행렬 곱셈 순서 ★](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%2011049%20행렬%20곱셈%20순서.md)
 
+- ### [BOJ  5557 1학년](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%205557%201학년.md)
+
 
 
