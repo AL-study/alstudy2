@@ -76,5 +76,5 @@ DP문제를 접근할 때는 다음의 사항을 고려해야 한다.
 
 - ### [BOJ  5557 1학년](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%205557%201학년.md)
 
-
+- ### [BOJ  1495 기타리스트](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%201495%20기타리스트.md)
 
