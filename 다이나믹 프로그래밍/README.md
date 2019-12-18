@@ -80,3 +80,5 @@ DP문제를 접근할 때는 다음의 사항을 고려해야 한다.
 
 - ### [BOJ  2302 극장좌석 ★](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%202302%20극장좌석.md)
 
+- ### [BOJ  11060 점프 점프](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%2011060%20점프%20점프.md)
+
