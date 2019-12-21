@@ -12,5 +12,5 @@
 
 - ### [BOJ  2875 대회 or  인턴](https://github.com/jungtaeyong/alstudy2/blob/ty/그리디%20알고리즘/baekjoon%202875%20대회%20or%20인턴.cpp)
 
-  ### 
+- ### [BOJ  1541 잃어버린 괄호](https://github.com/jungtaeyong/alstudy2/blob/ty/그리디%20알고리즘/baekjoon%201541%20잃어버린%20괄호.md)
 
