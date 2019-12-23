@@ -14,3 +14,5 @@
 
 - ### [BOJ  1541 잃어버린 괄호](https://github.com/jungtaeyong/alstudy2/blob/ty/그리디%20알고리즘/baekjoon%201541%20잃어버린%20괄호.md)
 
+- ### [BOJ  1120 문자열](https://github.com/jungtaeyong/alstudy2/blob/ty/그리디%20알고리즘/baekjoon%201120%20문자열.md)
+
