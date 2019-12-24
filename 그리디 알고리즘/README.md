@@ -16,3 +16,6 @@
 
 - ### [BOJ  1120 문자열](https://github.com/jungtaeyong/alstudy2/blob/ty/그리디%20알고리즘/baekjoon%201120%20문자열.md)
 
+- ### [BOJ  1946 신입 사원](https://github.com/jungtaeyong/alstudy2/blob/ty/그리디%20알고리즘/baekjoon%201946%20신입%20사원.md)
+
+  
