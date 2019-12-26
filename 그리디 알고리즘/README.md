@@ -18,4 +18,5 @@
 
 - ### [BOJ  1946 신입 사원](https://github.com/jungtaeyong/alstudy2/blob/ty/그리디%20알고리즘/baekjoon%201946%20신입%20사원.md)
 
-  
+- ### [BOJ  1049 기타줄](https://github.com/jungtaeyong/alstudy2/blob/ty/그리디%20알고리즘/baekjoon%201049%20기타줄.md)
+
