@@ -10,3 +10,5 @@
 
 - ### [다이나믹 프로그래밍](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/예습/다이나믹%20프로그래밍.md)
 
+- ### [트리](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/예습/트리.md)
+
