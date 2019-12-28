@@ -12,3 +12,5 @@
 
 - ### [트리](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/예습/트리.md)
 
+- ### [위상정렬](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/예습/위상정렬.md)
+
