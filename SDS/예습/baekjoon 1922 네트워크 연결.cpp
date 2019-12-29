@@ -19,7 +19,6 @@ class Edge{
 		}
 };
 
-
 int getparent(int a){
 	if(set[a]==a){
 		return a;
