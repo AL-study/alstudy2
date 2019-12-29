@@ -16,5 +16,5 @@
 
 - ### [MST (Minimum Spanning Tree)](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/예습/MST.md)
 
-
+- ### [최소 공통 조상  LCA(Lowest Common Ancestor)](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/예습/LCA.md)
 
