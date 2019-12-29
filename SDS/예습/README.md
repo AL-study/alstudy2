@@ -14,3 +14,7 @@
 
 - ### [위상정렬](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/예습/위상정렬.md)
 
+- ### [MST (Minimum Spanning Tree)](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/예습/MST.md)
+
+
+
