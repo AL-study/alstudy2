@@ -26,3 +26,5 @@
 
 - ### [단절점](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/예습/단절점.md)
 
+- ### [수학](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/예습/수학.md)
+
