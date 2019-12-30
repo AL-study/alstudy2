@@ -16,7 +16,6 @@ void dijkstra(int start){
 		int current =pq.top().second;
 		int distance= -pq.top().first;
 		pq.pop();
-		
 		if(d[current]<distance)continue;
 		for(int i=0;i<v[current].size();i++){
 			//선택된 노드의 인접 노드
