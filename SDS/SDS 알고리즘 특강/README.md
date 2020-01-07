@@ -10,5 +10,7 @@
 
 - ### [1일차 알고리즘 기초](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/SDS%20알고리즘%20특강/1일차%20알고리즘%20기초.md)
 
+- ### [2일차 시간복잡도](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/SDS%20알고리즘%20특강/2일차%20시간복잡도.md)
+
   
 
