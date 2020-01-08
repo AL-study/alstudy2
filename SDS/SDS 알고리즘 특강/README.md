@@ -12,5 +12,5 @@
 
 - ### [2일차 시간복잡도](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/SDS%20알고리즘%20특강/2일차%20시간복잡도.md)
 
-  
+- ### [3일차 자료구조](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/SDS%20알고리즘%20특강/3일차%20자료구조.md)
 
