@@ -14,3 +14,7 @@
 
 - ### [3일차 자료구조](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/SDS%20알고리즘%20특강/3일차%20자료구조.md)
 
+- ### [4일차 정수론](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/SDS%20알고리즘%20특강/4일차%20정수론.md)
+
+
+
