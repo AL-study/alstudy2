@@ -18,5 +18,7 @@
 
 - ### [5일차 조합론](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/SDS%20알고리즘%20특강/5일차%20조합론.md)
 
+- ### [6일차 그래프1](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/SDS%20알고리즘%20특강/6일차%20그래프1.md)
+
 
 
