@@ -22,5 +22,7 @@
 
 - ### [7일차 그래프2](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/SDS%20알고리즘%20특강/7일차%20그래프2.md)
 
+- ### [8일차 동적계획법1](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/SDS%20알고리즘%20특강/8일차%20동적계획법1.md)
+
 
 
