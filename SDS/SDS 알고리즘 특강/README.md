@@ -24,5 +24,7 @@
 
 - ### [8일차 동적계획법1](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/SDS%20알고리즘%20특강/8일차%20동적계획법1.md)
 
+- ### [9-10일차 동적계획법2](https://github.com/jungtaeyong/alstudy2/blob/ty/SDS/SDS%20알고리즘%20특강/9-10일차%20동적계획법2.md)
+
 
 
