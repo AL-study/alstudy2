@@ -16,6 +16,18 @@
    - [9663 N-Queen][9663 N-Queen]
    - [2580 스도쿠][2580 스도쿠]
    - [1339 단어 수학][1339 단어 수학]
+3. 시뮬레이션
+   - [3425 고스택][3425 고스택]
+4. 비트 마스킹
+   - [1062 가르침][1062 가르침]
+   - [1759 암호 만들기][1759 암호 만들기]
+5. BFS
+   - [3055 탈출][3055 탈출]
+   - [1039 교환][1039 교환] 
+6. DP
+   - [1103 게임][1103 게임]
+7. 기타
+   - [1713 후보 추천하기][1713 후보 추천하기]
 
 ---
 
@@ -58,22 +70,61 @@
 
 ---
 
-### 4일차 정수론
+### [4일차 정수론][4일차 정수론]
+
+1. 유클리드 호제법
+   - [1735 분수 합][1735 분수 합]
+   - [14476 최대공약수 하나 빼기][14476 최대공약수 하나 빼기]
+   - [5376 소수를 분수로][5376 소수를 분수로]
+2. 확장된 유클리드 호제법
+   - [3955 캔디 분배][3955 캔디 분배]
+3. 에라토스테네스의 체
+   - [2960 에라토스테네스의 체][2960 에라토스테네스의 체]
+   - [6588 골드바흐의 추측][6588 골드바흐의 추측]
+   - [1644 소수의 연속합][1644 소수의 연속합]
+   - [11653 소인수분해][11653 소인수분해]
+   - [2904 수학은 너무 쉬워][2904 수학은 너무 쉬워]
+4. 기타
+   - [1837 암호제작][1837 암호제작]
+   - [4375 1][4375 1]
+   - [10610 30][10610 30]
 
 ---
 
-### 5일차 조합론
+### [5일차 조합론][5일차 조합론]
+
+1. DP
+   - [1256 사전][1256 사전]
+   - [5573 산책][5573 산책]
+   - [5569 출근 경로][5569 출근 경로]
+2. 조합론
+   - [5568 카드 놓기][5568 카드 놓기]
+   - [1722 순열의 순서][1722 순열의 순서]
+   - [13251 조약돌 꺼내기][13251 조약돌 꺼내기]
+3. 백트래킹
+   - [15663 N과 M (9)][15663 N과 M (9)]
+   - [15664 N과 M (10)][15664 N과 M (10)]
 
 ---
 
 
 
 [1일차 알고리즘 기초]:./SDS%201일차%20알고리즘%20기초.md "1일차 알고리즘 기초 문제집 정리"
+[3425 고스택]: https://www.acmicpc.net/problem/3425 "백준 3425 고스택"
+[3055 탈출]: https://www.acmicpc.net/problem/3055 "백준 3055 탈출"
+[1062 가르침]: https://www.acmicpc.net/problem/1062 "백준 1062 가르침"
+[1713 후보 추천하기]: https://www.acmicpc.net/problem/1713 "백준 1713 후보 추천하기"
+[1103 게임]: https://www.acmicpc.net/problem/1103 "백준 1103 게임"
+[1039 교환]: https://www.acmicpc.net/problem/1039 "백준BOJ 1039 교환"
 [1920 수 찾기]:https://www.acmicpc.net/problem/1920	"백준 1920 수 찾기"
 
 [9663 N-Queen]: https://www.acmicpc.net/problem/9663 "백준 9663 N-Queen"
+[1759 암호 만들기]: https://www.acmicpc.net/problem/1759 "백준 1759 암호 만들기"
 [2580 스도쿠]: https://www.acmicpc.net/problem/2580 "백준 2580 스도쿠"
 [1339 단어 수학]: https://www.acmicpc.net/problem/1339 "백준 1339 단어 수학"
+
+
+
 [2일차 시간복잡도]:./SDS%202일차%20시간복잡도.md "2일차 시간복잡도 문제집 정리"
 [2003 수들의 합 2]: https://www.acmicpc.net/problem/2003 "백준 2003 수들의 합 2"
 [2805 나무 자르기]:https://www.acmicpc.net/problem/2805 "백준 2805 나무 자르기"
@@ -84,6 +135,9 @@
 [1072 게임]: https://www.acmicpc.net/problem/1072 "백준1072 게임"
 [7453 합이 0인 네 정수]: https://www.acmicpc.net/problem/7453 "백준 7453 합이 0인 네 정수"
 [11003 최솟값 찾기]: https://www.acmicpc.net/problem/11003 "백준11003 최솟값 찾기"
+
+
+
 [3일차 자료구조]: ./SDS%203일차%20자료구조.md	"3일차 자료구조 문제집 정리"
 [1991 트리 순회]: https://www.acmicpc.net/problem/1991	"백준 1991 트리 순회"
 [2042 구간 합 구하기]: https://www.acmicpc.net/problem/2042	"백준 2042 구간 합 구하기 소스 코드"
@@ -95,3 +149,33 @@
 [3020 개똥벌레]: https://www.acmicpc.net/problem/3020	"백준 3020 개똥벌레"
 [1275 커피숍 2]: https://www.acmicpc.net/problem/1275	"백준 1275 커피숍 2"
 [2094 강수량]: https://www.acmicpc.net/problem/2094	"백준 2094 강수량"
+
+
+
+[4일차 정수론]: ./SDS%204일차%20정수론.md "4일차 정수론 문제집 정리"
+[1735 분수 합]: https://www.acmicpc.net/problem/1735 "백준 1735 분수 합"
+[14476 최대공약수 하나 빼기]: https://www.acmicpc.net/problem/14476 "백준 14476 최대공약수 하나 빼기"
+[3955 캔디 분배]: https://www.acmicpc.net/problem/3955 "백준 3955 캔디 분배"
+[2960 에라토스테네스의 체]: https://www.acmicpc.net/problem/2960 "백준 2960 에라토스테네스의 체"
+[6588 골드바흐의 추측]: https://www.acmicpc.net/problem/6588 "백준 6588 골드바흐의 추측"
+[1644 소수의 연속합]: https://www.acmicpc.net/problem/1644 "백준 1644 소수의 연속합"
+[11653 소인수분해]: https://www.acmicpc.net/problem/11653 "백준 16653 소인수분해"
+[1837 암호제작]: https://www.acmicpc.net/problem/1837 "백준1837 암호제작"
+[2824 최대공약수]:https://www.acmicpc.net/problem/2824 "백준 2824 최대공약수"
+[2725 보이는 점의 개수]: https://www.acmicpc.net/problem/2725 "백준 2725 보이는 점의 개수"
+[4375 1]:https://www.acmicpc.net/problem/4375 "백준 4375 1"
+[10610 30]: https://www.acmicpc.net/problem/10610	"백준 10610 30"
+[2904 수학은 너무 쉬워]: https://www.acmicpc.net/problem/2904 "백준 2904 수학은 너무 쉬워"
+[5376 소수를 분수로]: https://www.acmicpc.net/problem/5376 "백준 5376 소수를 분수로"
+
+
+
+[5일차 조합론]: ./SDS%205일차%20조합론.md "5일차 조합론 문제집 정리"
+[1256 사전]: https://www.acmicpc.net/problem/1256 "백준 1256 사전"
+[5568 카드 놓기]: https://www.acmicpc.net/problem/5568 "백준 5568 카드 놓기"
+[5573 산책]: https://www.acmicpc.net/problem/5573 "백준  5573 산책"
+[5569 출근 경로]: https://www.acmicpc.net/problem/5569 "백준  5569 출근 경로"
+[1722 순열의 순서]: https://www.acmicpc.net/problem/1722 "백준  1722 순열의 순서"
+[13251 조약돌 꺼내기]: https://www.acmicpc.net/problem/13251 "백준 13251 조약돌 꺼내기"
+[15663 N과 M (9)]: https://www.acmicpc.net/problem/15663 "백준  15663 N과 M (9)"
+[15664 N과 M (10)]:https://www.acmicpc.net/problem/15664 "백준 15664 N과 M (10)"
