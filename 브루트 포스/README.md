@@ -8,3 +8,5 @@
 
 - ### [BOJ 3085 사탕 게임](https://github.com/jungtaeyong/alstudy2/blob/ty/브루트%20포스/baekjoon%203085%20사탕게임.md)
 
+- ### [BOJ 1038 감소하는 수](https://github.com/jungtaeyong/alstudy2/blob/ty/브루트%20포스/baekjoon%201038%20감소하는%20수.md)
+
