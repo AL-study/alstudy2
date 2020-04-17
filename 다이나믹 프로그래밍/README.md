@@ -87,3 +87,8 @@ DP문제를 접근할 때는 다음의 사항을 고려해야 한다.
 - ### [BOJ  9251 LCS](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%209251%20LCS.cpp)
 
 - ### [BOJ  2352 반도체 설계](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%202352%20반도체%20설계.cpp)
+
+- ### [BOJ  8895 막대 배치](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%208895%20막대%20배치.cpp)
+
+
+
