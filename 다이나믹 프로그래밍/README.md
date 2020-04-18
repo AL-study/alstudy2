@@ -90,5 +90,5 @@ DP문제를 접근할 때는 다음의 사항을 고려해야 한다.
 
 - ### [BOJ  8895 막대 배치](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%208895%20막대%20배치.md)
 
-
+- ### [BOJ  2291 sequence](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%202291%20sequence.cpp)
 
