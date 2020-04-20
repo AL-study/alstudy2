@@ -9,3 +9,6 @@
 - ### [BOJ  2174 로봇 시뮬레이션](https://github.com/jungtaeyong/alstudy2/blob/ty/구현/baekjoon%202174%20로봇%20시뮬레이션.cpp)
 
 - ### [BOJ  2573 빙산](https://github.com/jungtaeyong/alstudy2/blob/ty/구현/baekjoon%202573%20빙산.cpp)
+
+- ### [BOJ  1341 사이좋은 형제](https://github.com/jungtaeyong/alstudy2/blob/ty/구현/baekjoon%201341%20사이좋은%20형제.cpp)
+
