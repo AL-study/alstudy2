@@ -94,5 +94,7 @@ DP문제를 접근할 때는 다음의 사항을 고려해야 한다.
 
 - ### [BOJ  18235 지금 만나러 갑니다](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%2018235%20지금%20만나러%20갑니다.cpp)
 
+- ### [BOJ  1507 궁금한 민호](https://github.com/jungtaeyong/alstudy2/blob/ty/다이나믹%20프로그래밍/baekjoon%201507%20궁금한%20민호.cpp)
+
 
 
