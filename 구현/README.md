@@ -12,3 +12,5 @@
 
 - ### [BOJ  1341 사이좋은 형제](https://github.com/jungtaeyong/alstudy2/blob/ty/구현/baekjoon%201341%20사이좋은%20형제.cpp)
 
+- ### [BOJ  4948 베르트랑 공준](https://github.com/jungtaeyong/alstudy2/blob/ty/구현/baekjoon%204948%20베르트랑%20공준.cpp)
+
